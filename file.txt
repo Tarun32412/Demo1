@@ -1,1 +1,2 @@
 git password contains.
+new edit or changes done then do commit
